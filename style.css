@@ -1,0 +1,14 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Manrope', sans-serif;
+}
+
+.bannerCard {
+    height: 550px;
+}
+
+.HockeysClub {
+    justify-content: center;
+    align-items: center;
+    
+}

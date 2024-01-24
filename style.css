@@ -1,6 +1,7 @@
 body {
     font-family: 'Bebas Neue', sans-serif;
     font-family: 'Manrope', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .bannerCard {
@@ -10,5 +11,5 @@ body {
 .HockeysClub {
     justify-content: center;
     align-items: center;
-    
+
 }
